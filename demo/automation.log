@@ -1,0 +1,76 @@
+2025-04-28 16:36:53,899: INFO: ---verifying login test-----
+2025-04-28 19:02:37,481: INFO: ---verifying login test-----
+2025-04-28 19:03:04,794: INFO: ----Test001 Login ----
+2025-04-28 19:03:04,794: INFO: ----verifying home page title----
+2025-04-28 19:03:05,330: INFO: ---verifying login test-----
+2025-04-28 19:03:08,843: INFO: ---home page title is passed-----
+2025-04-28 19:03:12,533: ERROR: ---login page title is failed-----
+2025-04-28 19:16:53,946: INFO: ---verifying login test-----
+2025-04-28 19:17:34,640: INFO: ---verifying login test-----
+2025-04-28 19:17:53,650: INFO: ***fail***
+2025-04-28 19:17:53,651: INFO: ***Login DDt test failed***
+2025-04-28 19:24:25,777: INFO: ---verifying login test-----
+2025-04-28 19:24:44,573: INFO: ***fail***
+2025-04-28 19:24:44,573: INFO: ***Login DDt test failed***
+2025-04-29 00:34:46,672: INFO: patching driver executable C:\Users\RohiniHirekhan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-29 00:34:48,978: INFO: ----Test001 Login ----
+2025-04-29 00:34:48,978: INFO: ----verifying home page title----
+2025-04-29 00:34:52,627: INFO: ---home page title is passed-----
+2025-04-29 00:34:54,227: INFO: ---verifying login test-----
+2025-04-29 00:34:58,837: ERROR: ---login page title is failed-----
+2025-04-29 00:45:42,532: INFO: patching driver executable C:\Users\RohiniHirekhan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-29 00:45:44,436: INFO: ----Test001 Login ----
+2025-04-29 00:45:44,436: INFO: ----verifying home page title----
+2025-04-29 00:45:48,006: INFO: ---home page title is passed-----
+2025-04-29 00:45:49,070: INFO: ---verifying login test-----
+2025-04-29 00:45:52,856: ERROR: ---login page title is failed-----
+2025-04-29 09:26:08,567: INFO: patching driver executable C:\Users\RohiniHirekhan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-29 09:26:10,533: INFO: ---verifying login test-----
+2025-04-29 09:26:30,259: INFO: ***fail***
+2025-04-29 09:26:30,260: INFO: ***Login DDt test failed***
+2025-04-29 09:35:19,515: INFO: patching driver executable C:\Users\RohiniHirekhan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-29 09:35:21,935: INFO: ----Test001 Login ----
+2025-04-29 09:35:21,937: INFO: ----verifying home page title----
+2025-04-29 09:35:26,944: INFO: ---home page title is passed-----
+2025-04-29 09:35:28,547: INFO: ---verifying login test-----
+2025-04-29 09:35:32,740: ERROR: ---login page title is failed-----
+2025-04-29 09:37:02,633: INFO: patching driver executable C:\Users\RohiniHirekhan\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-04-29 09:37:04,985: INFO: ----Test001 Login ----
+2025-04-29 09:37:04,985: INFO: ----verifying home page title----
+2025-04-29 09:37:09,001: INFO: ---home page title is passed-----
+2025-04-29 09:37:10,303: INFO: ---verifying login test-----
+2025-04-29 09:37:16,293: ERROR: ---login page title is failed-----
+2025-04-29 09:37:51,601: INFO: ----Test001 Login ----
+2025-04-29 09:37:51,601: INFO: ----verifying home page title----
+2025-04-29 09:37:55,494: INFO: ---home page title is passed-----
+2025-04-29 09:37:59,061: INFO: ---verifying login test-----
+2025-04-29 09:38:04,834: ERROR: ---login page title is failed-----
+2025-04-30 20:18:55,795: INFO: ----Test001 Login ----
+2025-04-30 20:18:55,795: INFO: ----verifying home page title----
+2025-04-30 20:19:00,190: INFO: ---home page title is passed-----
+2025-04-30 21:29:32,063: INFO: ----Test001 Login ----
+2025-04-30 21:29:32,063: INFO: ----verifying home page title----
+2025-04-30 21:29:37,324: INFO: ---home page title is passed-----
+2025-04-30 21:29:40,302: INFO: ---verifying login test-----
+2025-04-30 21:29:45,997: ERROR: ---login page title is failed-----
+2025-05-01 12:50:20,975: INFO: ----Test001 Login ----
+2025-05-01 12:50:20,975: INFO: ----verifying home page title----
+2025-05-01 12:50:25,321: INFO: ---home page title is passed-----
+2025-05-01 12:50:29,583: INFO: ---verifying login test-----
+2025-05-01 12:50:37,923: ERROR: ---login page title is failed-----
+2025-05-01 15:35:53,961: INFO: ----Test001 Login ----
+2025-05-01 15:35:53,961: INFO: ----verifying home page title----
+2025-05-01 15:35:59,901: INFO: ---home page title is passed-----
+2025-05-01 15:36:11,717: INFO: ----Test001 Login ----
+2025-05-01 15:36:11,717: INFO: ----verifying home page title----
+2025-05-01 15:36:15,415: INFO: ---home page title is passed-----
+2025-05-01 15:36:20,139: INFO: ---verifying login test-----
+2025-05-01 15:36:28,289: ERROR: ---login page title is failed-----
+2025-05-01 15:36:42,485: INFO: ----Test001 Login ----
+2025-05-01 15:36:42,487: INFO: ----verifying home page title----
+2025-05-01 15:36:47,283: INFO: ---home page title is passed-----
+2025-05-01 15:36:58,295: INFO: ----Test001 Login ----
+2025-05-01 15:36:58,295: INFO: ----verifying home page title----
+2025-05-01 15:37:01,934: INFO: ---home page title is passed-----
+2025-05-01 15:37:06,276: INFO: ---verifying login test-----
+2025-05-01 15:37:15,224: ERROR: ---login page title is failed-----
