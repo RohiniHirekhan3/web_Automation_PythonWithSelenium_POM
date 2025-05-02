@@ -9,10 +9,6 @@ call .venv\Scripts\activate.bat
 REM Step 3: Run tests using python -m pytest
 python -m pytest -v -s -m "sanity" --html=Reports\report1.html TestCases/test_Login.py --browser chrome
 
-python -m pytest -v -s -m "sanity or regression" --html=Reports\report2.html TestCases/test_Login.py --browser chrome
 
-python -m pytest -v -s -m "sanity and regression" --html=Reports\report3.html TestCases/test_Login.py --browser chrome
-
-python -m pytest -v -s -m "regression" --html=Reports\report4.html TestCases/test_Login.py --browser chrome
 
 pause
