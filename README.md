@@ -39,3 +39,11 @@ project/
 ```bash
 git clone https://github.com/RohiniHirekhan3/web_Automation_PythonWithSelenium_POM.git
 cd web_Automation_PythonWithSelenium_POM
+
+Run the test suite
+pytest --html=reports/report.html
+
+🤝 Author
+Rohini Hirekhan
+Python QA Automation Engineer | Selenium | PyTest | POM
+📫 LinkedIn 
