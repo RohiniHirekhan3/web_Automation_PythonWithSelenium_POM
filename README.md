@@ -1,29 +1,29 @@
-# 🧪 eCommerce QA Automation Framework
-
-This project is a Python-based automation framework built using Selenium, PyTest, and Page Object Model (POM). It simulates user journeys on a sample e-commerce web application and validates both frontend flows and backend APIs.
+🔹 Web Automation – Python + Selenium + PyTest (POM Framework)
+📌 Description:
+A modular and scalable Page Object Model framework built using Python + Selenium for automating a sample web application. The framework includes PyTest, reusable page classes, and fixture-based test structure.
 
 ---
 
-## ⚙️ Tech Stack
-- Python 3.10
-- Selenium WebDriver
-- PyTest
-- Page Object Model (POM)
-- Requests (API testing)
-- HTML Reporting (pytest-html)
-- GitHub + Jenkins integration
+ Tech Stack:
+Language: Python 3.x
+
+Automation: Selenium WebDriver
+
+Framework: PyTest + Page Object Model (POM)
+
+Reporting: HTML / Logging
+
+CI/CD: GitHub Actions (Optional Jenkins integration)
+
+
 
 ---
 
 ## 📂 Folder Structure
-project/
-├── tests/
-├── pages/
-├── utils/
-├── reports/
-├── conftest.py
-├── requirements.txt
-├── README.md
+/pages      → Reusable page classes
+/tests      → PyTest test cases
+/conftest   → Fixtures for setup/teardown
+/utils      → Custom waits, loggers
 
 ## 🚀 Features
 
